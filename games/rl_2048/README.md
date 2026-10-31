@@ -1,5 +1,7 @@
 # Reinforcement learning for 2048
 
+[Play the demo](https://richardbot7000.github.io/ml-playground/) · [Project writeup](WRITEUP.md)
+
 The shared interfaces in `core/` describe discrete-action environments, tensor
 observations, and actor-critic models. They are independent of the game and
 learning algorithm.
